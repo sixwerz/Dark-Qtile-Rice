@@ -8,7 +8,7 @@
 
 ## You must download:
 ```
-## pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh
+## pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh picom rofi 
 ```
 
 ## Installation:
