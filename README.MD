@@ -10,6 +10,8 @@
 ```
 ## pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh picom rofi 
 ```
+## Cursor
+Cursor: [Bibata-Modern-Ice](https://www.pling.com/p/1197198)
 
 ## Installation:
 .zshrc needs to be placed in **/home/user/.zshrc**
