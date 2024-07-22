@@ -11,5 +11,10 @@
 ## pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh
 ```
 
+## Installation:
+.zshrc needs to be placed in **/home/user/.zshrc**
 
+picom.conf needs to be placed in **/etc/xdg/picom.conf**
+
+the rest needs to be marked in **.config/**
 
