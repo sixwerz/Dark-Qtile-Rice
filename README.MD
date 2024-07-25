@@ -3,8 +3,9 @@
 ## This is my first rice and I hope you like it
 
 ## Screenshots:
-![screenshot 1](https://github.com/sixwerz/Dark-Qtile-Rice/blob/main/screenshot/1.png)
-![Screenshot 2](https://github.com/sixwerz/Dark-Qtile-Rice/blob/main/screenshot/2.png)
+![screenshot 1](https://github.com/sixwerz/Dark-Qtile-Rice/blob/main/screenshot/original%20wallapper.png)
+![Screenshot 2](https://github.com/sixwerz/Dark-Qtile-Rice/blob/main/screenshot/anime%20wallapper.png)
+![Screenshot 2](https://github.com/sixwerz/Dark-Qtile-Rice/blob/main/screenshot/cat%20wallpaper.png)
 
 ## You must download:
 ```
@@ -19,4 +20,11 @@ Cursor: [Bibata-Modern-Ice](https://www.pling.com/p/1197198)
 picom.conf needs to be placed in **/etc/xdg/picom.conf**
 
 the rest needs to be marked in **.config/**
+
+## Wallpaper
+to change the wallpaper you need to use nitrogen and select folder with wallappers
+
+```
+nitrogen
+```
 
