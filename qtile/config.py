@@ -166,16 +166,17 @@ widget_list = [
 
                 widget.Spacer(),
 
-                widget.Systray(),
+                widget.Systray(padding=5),
                 
                 widget.Battery(
-                    format='{percent:2.0%}'
+                    format='{percent:2.0%}',
+                    padding=5,
                 ),
                 
                 widget.KeyboardLayout(configured_keyboards=['us','ru']),
 
                 widget.Clock(
-                    format="%Y-%m-%d %a %I:%M %p",
+                    format="%Y-%m-%d %a | %I:%M %p",
                 ),
 
 ]
@@ -205,7 +206,7 @@ else:
             top=bar.Bar(
                 widget_list,
                 24,
-                opacity=1,
+                opacity=0.6,
                 # font="JetBrainsMono",
                 # background="#FFFFFF",
                 # border_width=[2, 0, 2, 0],  # Draw top and bottom borders
