@@ -7,7 +7,7 @@
 
 ## You must download:
 ```
-## pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh picom rofi
+pacman -S alacritty firefox thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd nitrogen flameshot zsh picom rofi
 ```
 ## Cursor
 Cursor: [Bibata-Modern-Ice](https://www.pling.com/p/1197198)
