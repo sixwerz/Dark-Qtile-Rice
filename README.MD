@@ -17,7 +17,7 @@ Cursor: [Bibata-Modern-Ice](https://www.pling.com/p/1197198)
 
 picom.conf needs to be placed in **/etc/xdg/picom.conf**
 
-the rest needs to be marked in **.config/**
+the rest needs to be placed in **.config/**
 
 ## Wallpaper
 to change the wallpaper you need to use nitrogen and select folder with wallappers
